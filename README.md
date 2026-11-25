@@ -1,4 +1,4 @@
-![GitHub release (latest by date)](https://shields.io)
+[![GitHub Downloads](https://shields.io)](https://github.com/CiPH3R-88/NFSMW_WideScreenMode/releases)
 
 # NFSMW_WideScreenMode
 
