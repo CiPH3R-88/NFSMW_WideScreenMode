@@ -71,6 +71,7 @@ A lightweight, modern widescreen plugin for **Need for Speed: Most Wanted (2005)
 - **nlg** — Providing the IDA Pro database for NFS Most Wanted.
 - **Toru** — Full-color YUV LUT calculation logic and X360Stuff reference.
 - **Archie** — Sunset Mod codebase, which helped implement and add the Motion Blur option in the in-game Video Settings.
+- **Plajer** — Tester and Bug Findings.
 - **ThirteenAG** — Referred to for initial research.
 
 [![GitHub Downloads](https://shields.io)](https://github.com)
