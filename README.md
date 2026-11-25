@@ -1,3 +1,5 @@
+![GitHub release (latest by date)](https://shields.io)
+
 # NFSMW_WideScreenMode
 
 A lightweight, modern widescreen plugin for **Need for Speed: Most Wanted (2005) v1.3**, built from the ground up with clean C++ and reverse engineering in IDA Pro.
@@ -72,3 +74,5 @@ A lightweight, modern widescreen plugin for **Need for Speed: Most Wanted (2005)
 - **Toru** — Full-color YUV LUT calculation logic and X360Stuff reference.
 - **Archie** — Sunset Mod codebase, which helped implement and add the Motion Blur option in the in-game Video Settings.
 - **ThirteenAG** — Referred to for initial research.
+
+[![GitHub Downloads](https://shields.io)](https://github.com)
