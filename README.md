@@ -1,4 +1,4 @@
-# NFSMW_WideScreenMode
+# NFSMW_WideScreenMode ![Latest Release Downloads](https://img.shields.io/github/downloads/CiPH3R-88/NFSMW_WideScreenMode/latest/total)
 
 A lightweight, modern widescreen plugin for **Need for Speed: Most Wanted (2005) v1.3**, built from the ground up with clean C++ and reverse engineering in IDA Pro.
 
